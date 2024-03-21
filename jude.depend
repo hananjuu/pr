@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1711037561 source:c:\users\lenovo\desktop\simlon_c\test22222\jude\functions.c
+	<stdio.h>
+	<string.h>
+	"header.h"
+
+1711016792 c:\users\lenovo\desktop\simlon_c\test22222\jude\header.h
+
+1711043823 source:c:\users\lenovo\desktop\simlon_c\test22222\jude\main.c
+	<stdio.h>
+	"header.h"
+
