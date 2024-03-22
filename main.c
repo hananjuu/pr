@@ -21,7 +21,7 @@ int main() {
             printf("Entrez votre choix : ");
         }
         scanf("%d", &choice);
-        
+
 
         switch (choice) {
             case 1:
@@ -41,11 +41,11 @@ int main() {
                 break;
             case 4:
                 displayTasks();
-                displayMenu = 0; // Ne pas réafficher le menu principal
+                displayMenu = 0; 
                 break;
             case 5:
                 filterTasksByPriority();
-                displayMenu = 0; // Ne pas réafficher le menu principal
+                displayMenu = 0; 
                 break;
             case 6:
                 markTaskAsFinished();
